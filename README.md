@@ -1,3 +1,6 @@
+Please note this is for the FRC 2025 game I have created a better scouting system here
+https://github.com/steveandjeff999/OBSIDIANscout
+
 1 download and extract the repository 
         2 install python 3.12 and microsoft excel
         3 open terminal and run "pip install flask pandas openpyxl pyzbar opencv-python"
